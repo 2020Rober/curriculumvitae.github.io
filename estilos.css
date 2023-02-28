@@ -1,0 +1,65 @@
+body {background-color: grey;}
+
+h1{
+   font-family: 'Roboto', sans-serif;
+   border: 5px solid darkviolet;
+   padding: 5px;
+   margin: 50px;
+  
+   font-weight: bold;
+   color:  white;
+}
+
+li{
+   font-weight: bold;
+   color:  white;
+}
+
+
+.line {
+  border-bottom: 1px solid #fff;
+}
+
+
+
+
+.info-container {
+  width: 300px;
+  margin-left: 140px;
+  top: -140px;
+  position: relative;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+li:first-child {
+  margin-top: 10px;
+}
+
+
+
+
+
+
+.caja1 {
+      background-color: violet;
+      width: 600px;
+      height:200px;
+}
+
+p {
+   font-family: 'Caveat', cursive;
+
+   font-size: 2em;
+   color: white;
+   width: 400px;
+}
